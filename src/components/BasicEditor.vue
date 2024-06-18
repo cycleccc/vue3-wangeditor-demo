@@ -33,9 +33,9 @@
 </template>
 
 <script>
-import '@wangeditor/editor/dist/css/style.css'
+import '@wangeditor-next/editor/dist/css/style.css'
 import { onBeforeUnmount, ref, shallowRef, onMounted } from 'vue'
-import { Editor, Toolbar } from '@wangeditor/editor-for-vue'
+import { Editor, Toolbar } from '@wangeditor-next/editor-for-vue'
 
 export default {
   components: { Editor, Toolbar },

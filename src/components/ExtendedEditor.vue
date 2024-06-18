@@ -2,7 +2,7 @@
 // import { h } from 'snabbdom'
 import { onBeforeUnmount, ref, shallowRef } from 'vue'
 // import { IButtonMenu } from '@wangeditor/core'
-import { Boot } from '@wangeditor/editor'
+import { Boot } from '@wangeditor-next/editor'
 import { Editor, Toolbar } from '@wangeditor/editor-for-vue'
 
 // 测试：第三方插件

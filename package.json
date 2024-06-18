@@ -8,10 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@wangeditor/core": "^1.0.0",
-    "@wangeditor/editor": "^5.0.1",
-    "@wangeditor/editor-for-vue": "^5.1.11",
-    "@wangeditor/plugin-ctrl-enter": "^1.0.2",
+    "@wangeditor-next/core": "^1.2.2",
+    "@wangeditor-next/editor": "^5.2.5",
+    "@wangeditor-next/editor-for-vue": "^5.1.14",
     "core-js": "^3.6.5",
     "snabbdom": "^3.1.0",
     "vue": "^3.2.21"
