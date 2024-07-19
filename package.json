@@ -1,0 +1,39 @@
+{
+  "name": "wangeditor-editor-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@uppy/core": "^2.1.10",
+    "@uppy/xhr-upload": "^2.0.7",
+    "@wangeditor-next/editor": "^5.2.5",
+    "@wangeditor-next/editor-for-vue": "^5.1.14",
+    "dom7": "^4.0.4",
+    "is-hotkey": "^0.2.0",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.foreach": "^4.5.0",
+    "lodash.isequal": "^4.5.0",
+    "lodash.throttle": "^4.1.1",
+    "lodash.toarray": "^4.4.0",
+    "nanoid": "^3.3.4",
+    "slate": "^0.78.0",
+    "snabbdom": "^3.5.0",
+    "typescript": "^5.4.5",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.0",
+    "@vue/cli-plugin-eslint": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
